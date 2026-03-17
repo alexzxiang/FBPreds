@@ -1,0 +1,47 @@
+================================================================================
+MILAN vs PARMA - FULL MODEL
+================================================================================
+================================================================================
+COMPREHENSIVE MATCH PREDICTION - LOADING ALL DATA
+================================================================================
+
+📊 Loading multi-season player profiles...
+   ✅ 3594 FBRef players
+
+📊 Loading player mapping...
+   ✅ 3361 mapped players
+
+🔄 Building TM ID to profile cache...
+   ✅ 3353 profiles cached
+
+📊 Loading matches...
+   ✅ 32379 matches (2020+)
+
+📊 Loading appearances...
+   ✅ 1725531 appearances
+
+📊 Loading Transfermarkt players...
+   ✅ 34301 players
+
+📊 Loading Elo ratings...
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+No H2H found, using recent Milan home match as template
+No Milan home match found, using fallback template
+
+Using template: AC Milan vs Parma
+Template date: 2026-02-11
+
+ELO: Milan 1893 vs Parma 1572 (diff: +321)
+
+PROBABILITIES:
+  Milan:  44.3%
+  Draw:   36.7%
+  Parma:  19.0%
+
+✅ PREDICTED: MILAN WIN
+
+Form: Home 7.0pts | Away 13.0pts
+================================================================================

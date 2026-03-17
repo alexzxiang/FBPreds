@@ -1,0 +1,42 @@
+================================================================================
+TOTTENHAM vs ARSENAL - FULL MODEL
+================================================================================
+================================================================================
+COMPREHENSIVE MATCH PREDICTION - LOADING ALL DATA
+================================================================================
+
+📊 Loading multi-season player profiles...
+   ✅ 3594 FBRef players
+
+📊 Loading player mapping...
+   ✅ 3361 mapped players
+
+🔄 Building TM ID to profile cache...
+   ✅ 3353 profiles cached
+
+📊 Loading matches...
+   ✅ 32379 matches (2020+)
+
+📊 Loading appearances...
+   ✅ 1725531 appearances
+
+📊 Loading Transfermarkt players...
+   ✅ 34301 players
+
+📊 Loading Elo ratings...
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+
+ELO: Tottenham 1500 vs Arsenal 1500 (diff: +0)
+
+PROBABILITIES:
+  Tottenham:  34.8%
+  Draw:       15.2%
+  Arsenal:    50.0%
+
+✅ PREDICTED: ARSENAL WIN
+
+Form: Home 13.0pts | Away 7.0pts
+================================================================================

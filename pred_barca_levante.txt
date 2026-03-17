@@ -1,0 +1,46 @@
+================================================================================
+BARCELONA vs LEVANTE - FULL MODEL
+================================================================================
+================================================================================
+COMPREHENSIVE MATCH PREDICTION - LOADING ALL DATA
+================================================================================
+
+📊 Loading multi-season player profiles...
+   ✅ 3594 FBRef players
+
+📊 Loading player mapping...
+   ✅ 3361 mapped players
+
+🔄 Building TM ID to profile cache...
+   ✅ 3353 profiles cached
+
+📊 Loading matches...
+   ✅ 32379 matches (2020+)
+
+📊 Loading appearances...
+   ✅ 1725531 appearances
+
+📊 Loading Transfermarkt players...
+   ✅ 34301 players
+
+📊 Loading Elo ratings...
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+   ✅ 2080 teams with Elo ratings
+   Mean: 1500, Std: 61
+No H2H found, using recent Barcelona home match as template
+
+Using template: Futbol Club Barcelona vs Real Madrid Club de Fútbol
+Template date: 2026-01-11
+
+ELO: Barcelona 1951 vs Levante 1516 (diff: +434)
+
+PROBABILITIES:
+  Barcelona:  65.8%
+  Draw:       6.0%
+  Levante:    28.2%
+
+✅ PREDICTED: BARCELONA WIN
+
+Form: Home 15.0pts | Away 15.0pts
+================================================================================
